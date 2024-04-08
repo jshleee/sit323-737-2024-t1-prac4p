@@ -1,0 +1,17 @@
+{
+  "name": "4.1p",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Seohee Lee (s222127941@deakin.edu.au)",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "winston": "^3.13.0"
+  }
+}
